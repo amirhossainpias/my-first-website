@@ -53,6 +53,7 @@ background-image: url("top-banner.png");
      background-position: left;
  }
  .third-sec h2{
+     margin-bottom: 50px;
      text-align: left;
  }
  .third-sec .half-width{
